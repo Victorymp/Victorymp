@@ -1,7 +1,7 @@
 # Victorymp
 ### Looking for a FOSS to contribute to without AI
 ---
-### Associate Developer | C# • Python • Java • React • Azure
+### Associate Developer | C# • Python • Java • Azure
 
 I'm a Associate Developer based in **Oxford, UK** with **2+ years of commercial experience** building cloud applications, REST APIs, and automation solutions on Microsoft Azure. I enjoy building full-stack software, backend services, distributed systems, and solving real-world engineering problems.
 
